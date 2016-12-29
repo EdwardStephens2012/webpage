@@ -1,24 +1,7 @@
-# README
+# One Month
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a personal webpage i'm building using the help of One Month Rails
+[*One Month Rails*](http://onemonthrails.com)
 
-Things you may want to cover:
+by [Ed Stephens]
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

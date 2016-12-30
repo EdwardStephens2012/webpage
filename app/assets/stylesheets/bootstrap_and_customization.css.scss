@@ -40,3 +40,15 @@ $jumbotron-bg: white;
 .thumbnail img { min-height:150px; height:150px;
 	border: none;
  }
+
+
+.block.featured-press{
+	padding-bottom:0
+}
+
+.featured-press img{
+	height:30px;
+	margin-top: 40px;
+	margin-bottom:1em;
+	display:flex-box;
+}

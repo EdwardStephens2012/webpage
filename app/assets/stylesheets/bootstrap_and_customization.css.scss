@@ -10,6 +10,10 @@ $jumbotron-bg: white;
 
 @import 'bootstrap';
 
+.navbar {
+    margin:0; /*add this*/
+}
+
 .center {
 	text-align: center;
 }
@@ -17,3 +21,12 @@ $jumbotron-bg: white;
 .navbar-brand {
 	font-weight: bold;
 }
+
+.jumbotron { min-height: 450px; 
+	padding-top: 150px;
+	border-top: 20px;
+}
+
+.thumbnail img { min-height:150px; height:150px;
+	border: none;
+ }

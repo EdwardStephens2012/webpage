@@ -22,10 +22,20 @@ $jumbotron-bg: white;
 	font-weight: bold;
 }
 
-.jumbotron { min-height: 450px; 
-	padding-top: 150px;
+.jumbotron { min-height: 500px; 
+	padding-top: 180px;
 	border-top: 20px;
 }
+
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 50px;
+}
+
 
 .thumbnail img { min-height:150px; height:150px;
 	border: none;
